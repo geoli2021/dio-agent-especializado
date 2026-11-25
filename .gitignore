@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Banco de dados de laboratório
+lab.db
+
+# Prints grandes (mantenha apenas os que quiser versionar)
+# images/*.png
+
+# Sistema
+.DS_Store
+Thumbs.db
